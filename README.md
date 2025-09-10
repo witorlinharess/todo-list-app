@@ -1,16 +1,11 @@
-# app_flutter
+# Flutter Project: To-Do List App
 
-A new Flutter project.
+## Project Description
 
-## Getting Started
+This is a simple to-do list application built with Flutter. The main goal of this project is to serve as a practical introduction to the fundamental concepts of the framework, such as state management, the use of essential widgets (`ListView`, `TextFormField`, etc.), and user interface organization.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The application will allow the user to:
+- Add new tasks.
+- View a list of all tasks.
+- Mark tasks as completed or uncompleted.
+- Delete tasks from the list.
